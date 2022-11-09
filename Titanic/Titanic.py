@@ -56,7 +56,7 @@ pd.set_option("display.max.columns", None)
 print(X_data)
 print()
 
-tf.keras.losses.
+
 
 # logsk = LogisticRegression(C=1e9)
 # logsk.fit(X_data, train_labels)
